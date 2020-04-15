@@ -1,1 +1,1 @@
-helm upgrade --install test-from-repo 
+helm upgrade --install test-from-repo https://github.com/Jabbs19/HelmOperatorTesting/raw/master/from-repo-test-0.1.0.tgz
